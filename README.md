@@ -1,5 +1,8 @@
 # Raspberry Pi Temperature Controller
 
+This project was forked from, steve71's "RasPiBrew" system.  
+
+
 ## Control a Water Heater Wirelessly over a Web Interface
 
 This program will control an electric heating element in a vessel to set temperatures and regulate boil.  All status included temperature is sent back wirelessly approx. every second.  The duty cycle and temperature is plotted in real time.  A Type C PID algorithm has been successfully implemented to automatically control the heating element when the desired temperature is set.  
