@@ -1,6 +1,6 @@
 # Raspberry Pi Temperature Controller
 
-This project was forked from, steve71's "RasPiBrew" system.  
+This project was forked from steve71's "RasPiBrew" system.  
 
 
 ## Control a Water Heater Wirelessly over a Web Interface
